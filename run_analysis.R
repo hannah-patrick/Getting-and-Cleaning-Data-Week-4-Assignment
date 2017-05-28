@@ -84,6 +84,6 @@ tidydata <- df %>%
   
 write.table(tidydata, file = "averaged_tidydata.txt", row.name = FALSE)
 
-#output tidy df from step 4 
-df
+#output tidy df from step 5 
+tidydata
 
