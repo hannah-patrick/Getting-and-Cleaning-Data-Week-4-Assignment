@@ -1,6 +1,5 @@
 
 #Ensure working directory is where the UCI HAR Dataset folder is located.
-#setwd("~/Documents/RScripts/coursera_repo/week4Proj")
 
 library(dplyr)
 
